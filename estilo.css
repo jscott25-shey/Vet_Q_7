@@ -414,15 +414,15 @@ html {
     {
         position: relative;
         background: #fff;
-        width: 400px;
+        width: 380px;
         height: 500px;
         margin: 0 auto;
     }
     
     .card .content
     {
-        width: 400px;
-        padding: 30px;
+        width: 380px;
+        padding: 10px;
         box-sizing: border-box;
     }
     .card .content a
